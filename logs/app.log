@@ -1,0 +1,7 @@
+{"level":"info","message":"Server listening at http://localhost:3800"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Server listening at http://localhost:3800"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":"Server listening at http://localhost:3800"}
+{"level":"info","message":"MongoDB connected successfully"}
+{"level":"info","message":{"__v":0,"_id":"6640d1acdb0379c9845fcbed","email":"magaji@gmail.com","first_name":"Muhammad","last_name":"Magaji","password":"$2b$10$hCHPQma3LXXgsVrz2eXzHeZxhWSqmeSY1f32wf.vaamRX4/TzEuU6","refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Ik11aGFtbWFkIE1hZ2FqaSIsImlhdCI6MTcxNTUyNDExNSwiZXhwIjoxNzE1NTI3NzE1fQ.L-r3NY7DVpZiCH-Y-H73xNXsFhoIBgOmhEzmmNS_zDQ"}}
